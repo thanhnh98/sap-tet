@@ -4,15 +4,15 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
-Sắp tết - Đếm ngược tết 2024
+Sắp tết - Đếm ngược tết 2025
 ====================
 
-***Đếm ngược tết 2024***
+***Đếm ngược tết 2025***
 
-Đếm ngày đến tết Giáp Thìn 2024
+Đếm ngày đến tết Giáp Thìn 2025
 
 <a href="https://play.google.com/store/apps/details?id=com.thanh_nguyen.tet_count_down&hl=en&gl=US" target="_blank">
-<img src="https://play-lh.googleusercontent.com/FpCUR8eUKCkqP8EcwgiwKGjCQfgTb8QLmjo4AM8wQMr10FcV4lI0RFCZ_Uhs5uvYZAo=s512-rw" alt="Get it on Google Play" height="90"/></a>
+<img src="https://play-lh.googleusercontent.com/LuIZPURF4VH2-sIWcPdnclS4d1rZkXvJ_fi9RLOOjKT4iuhqjNrB-AR4RmI9L_tAtw=s512-rw" alt="Get it on Google Play" height="90"/></a>
 
 Tải app ngay tại
 =========
