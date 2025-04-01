@@ -1,12 +1,12 @@
 # Sắp Tết - Đếm ngược Tết 2026 🧧 🎆 🐴
 
-<p align="center">
+<p align="left">
   <a href="https://saptet.vn" target="_blank">
     <img src="https://play-lh.googleusercontent.com/-1YFnrGIXF0Ycj-Ikl0OtyAyqMYPwRFaElOFa6v5sLlsAX-xDPU3X07ixOQgrJ22TJw1=s256-rw" alt="Sắp Tết Logo" width="200"/>
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <b>Đón chào năm Bính Ngọ 2026 với ứng dụng đếm ngược Tết đặc sắc!</b>
 </p>
 
