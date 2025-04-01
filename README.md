@@ -1,7 +1,9 @@
 # Sắp Tết - Đếm ngược Tết 2026 🧧 🎆 🐴
 
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/-1YFnrGIXF0Ycj-Ikl0OtyAyqMYPwRFaElOFa6v5sLlsAX-xDPU3X07ixOQgrJ22TJw1=s256-rw" alt="Sắp Tết Logo" width="200"/>
+  <a href="https://saptet.vn" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/-1YFnrGIXF0Ycj-Ikl0OtyAyqMYPwRFaElOFa6v5sLlsAX-xDPU3X07ixOQgrJ22TJw1=s256-rw" alt="Sắp Tết Logo" width="200"/>
+  </a>
 </p>
 
 <p align="center">
@@ -37,13 +39,12 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.thanh_nguyen.tet_count_down">
-    <img src="https://play.google.com/intl/en_us/badges/images/generic/vi_badge_web_generic.png" alt="Tải trên Google Play" height="70" width="220"/>
+    <img src="https://play.google.com/intl/en_us/badges/images/generic/vi_badge_web_generic.png" alt="Tải trên Google Play" height="70"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://apps.apple.com/us/app/s%E1%BA%AFp-t%E1%BA%BFt-%C4%91%E1%BA%BFm-ng%C6%B0%E1%BB%A3c-t%E1%BA%BFt-2026/id6743064990?platform=iphone">
-    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/vi-vn?size=250x83&amp;releaseDate=1601596800" alt="Tải trên App Store" height="70" width="220"/>
+    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/vi-vn?size=250x83&amp;releaseDate=1601596800" alt="Tải trên App Store" height="70"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
 </p>
 
 ## 📸 Hình ảnh ứng dụng
